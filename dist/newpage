@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body id="page-top">
+        <!-- Header-->
+        <header class="masthead text-center text-white">
+            <div class="masthead-content">
+                <div class="container px-5">
+                    <center>
+                    <h1 class="masthead-heading mb-0">Walk, a generative algorithm</h1>
+                    <!--<h2 class="masthead-heading mb-0">Julian Weis</h2>-->
+                    </center>
+                </div>
+            </div>
+            <div class="bg-circle-1 bg-circle"></div>
+            <div class="bg-circle-2 bg-circle"></div>
+            <div class="bg-circle-3 bg-circle"></div>
+            <div class="bg-circle-4 bg-circle"></div>
+        </header>
+        <center>
+          <iframe src="https://openprocessing.org/sketch/1939242/embed/?plusEmbedHash=YjdlODAzYTU5YWM1NDIzZWZkMWYzMzM2MDNjOGZlMWJiYjhlYzJmNjhkZjU0MzRiZWY3N2E0YjFmODg3YWZkODYxZDJhMDAwODhhNDRiNmM5MTBlMjZkMjI2Y2U4NmZlMGJmZmUxNzVhOTM4MmMzMDhiYzkxOWI4M2EwYzViMWRiUk9BakEvOFg1Q0daYnIxYjZTa2lGZGdUTm4weWR5L2F2SEZCd1dIdi9uUW4wTUhrVFFTcE9QTE9jbXFwUGNDWFJ2R2ZPRkZaRkphTnBmVWlqSUYrQT09&plusEmbedTitle=true" style="width:97%; height:500px;"></iframe>
+        </center>
+        <!-- Content section 1-->
+        <section id="scroll">
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h4 class="display-4">Intention</h4>
+                           <p>We all take unique walks through life. Viewed together, these walks weave a tapestry.  Joy, pain, hate, love --- which are sometimes all-consuming in any given moment --- combine into beauty when taken together.</p>
+<p>In this work, automata weave a tapestry, not unlike our own.  In viewing the output of the algorithm, one might achieve a sort of detachment from the individual automata. They seem far away, because their individual paths, or stories, are just pieces of the whole.</p>
+<p>If one would like, one might achieve a similar sort of detachment from one’s own story. This detachment allows one to see oneself as one might see another,  fostering self-compassion. It can also help one see others as one sees oneself, fostering empathy.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+        </section>
+               <!-- Content section 2-->
+        
+        <!-- Content section 2-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5">
+                            <h4 class="display-4">Process</h4>
+                            <p>In this work, the automata take center stage.  They have predetermined tendencies, but they are otherwise free. For example, large compositional shapes are not explicitly programmed; the automata generate these shapes themselves. The principal algorithm, with some twists, is that the automata try to move straight without retracing their steps or the steps of others. The automata often change location, color, size, and sometimes even the rule by which they move.  Some automata move according to complex and dynamic representations of distance.</p> 
+                            <p>Mostly, the automata choose their colors from a walk along the Upstate New York Erie Canal. For example, we see a cobalt canal lock, arctic blue piping under a thruway exit bridge, and a navy circle around “Empire State Trail.”  We see a salmon Guelder-rose berry, a fiery red fall Smooth Sumac leaf, and a golden ochre Willow branch. Colors are drawn also, sometimes, from a painted rock garden outside of a hospital.</p> 
+                           </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Content section 3-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-3">
+                        <div class="p-5">
+                            <h4 class="display-4">Research</h4>
+                            <p>I am interested in visualizing how different automata interact. I am as inspired by reading fiction - for example, the interactions of Chekhov’s characters - as I am by studying data structures. Many have noted that complex behavior can emerge from automata following simple rules, and the goal of my research is to understand how these rules, under additional constraints, translate to a visual experience. I take a statistical perspective, because it allows for automata whose behavior can easily become complex.</p>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+                <!-- Content section 3-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-3">
+                        <div class="p-5">
+                            <h4 class="display-4">Acknowledgements / Influences</h4>
+                               <p>Direct feedback, over the years: JO,  ArtBlocks (application screening committee), AP, MP.</p>
+                      
+                               <p>Influences of the work, often from afar: S. Wolfram, N. Todisco, Krankarta, J. R. García, H. Lippman, Spaghetticoder, S. Eliot, a mindfulness group, M. Nystrom, my Mother's work, K. Vaden, T. Sauer, Pheonix, J. Leonard, M. Waltz, S. Freeke, C. Reid, A. Penne, G. Richter, T. Hobbs, P. Cezanne, W. Kandinsky.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-3">
+                        <div class="p-5">
+                            <h4 class="display-4">Code</h4>
+                           <p>The Walk Algorithm has made me very happy over the years.  Since it creates complex images from simple automata, it’s helped me step back and see my story as a part of a bigger picture.  Since the algorithm is fun to extend, it’s kept me busy trying to develop new directions.</p>
+                           <p>I hope that Walk will give you the same happiness that it has given me.  I have benefited not just from viewing its outputs but also from working with the code itself, which I am sharing under a creative commons license on the wonderful openprocessing.org.</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                    
+        <!-- Footer-->
+        <footer class="py-5 bg-black">
+            <div class="container px-5"><p class="m-0 text-center text-white small">Copyright &copy; Julian Weis 2023</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
